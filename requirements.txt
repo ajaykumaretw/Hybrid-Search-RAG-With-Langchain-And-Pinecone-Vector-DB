@@ -1,0 +1,6 @@
+pinecone-client
+langchain-community
+pinecone-notebooks
+pinecone-text
+python-dotenv
+sentence_transformers
